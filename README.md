@@ -1,7 +1,7 @@
 # scraping mame videos
 
 This is a small tool that I built in 5 minutes (single thread) to be able to download all the videos of the games through different internet websites. 
-The video speed is x1000
+The video speed is x59
  
 
 
