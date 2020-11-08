@@ -1,11 +1,11 @@
-# scrapping mame videos
+# scraping mame videos
 
 This is a small tool that I built in 5 minutes (single thread) to be able to download all the videos of the games through different internet websites. 
 The video speed is x1000
  
 
 
-### vIDEO LIST - 6090
+### video list - 6090
 
     00001 - Download OK - 005.mp4
     00002 - Download OK - 10yard.mp4
