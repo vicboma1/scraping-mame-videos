@@ -1,11 +1,17 @@
-# scraping mame videos
+# scraping mame snaps videos
 
-This is a small tool that I built in 5 minutes (single thread) to be able to download all the videos of the games through different internet websites. 
-The video speed is x59
- 
+This is a small tool (Single Thread) that I built in 5 minutes to be able to download all the videos of the games (6.090 assets | 16.90gigas) through different internet websites. 
+The video speed is x59. 
 
+[Video: I've only had one denial-of-service (DoS) - 11:15](https://youtu.be/cHVJr5E_898)
 
-### video list - 6090
+### Captures
+
+<p align="center">
+    <img src="https://github.com/vicboma1/scraping-mame-videos/blob/master/assets/images/scraping.pmg" >	
+</p>
+
+### video list games - 6090
 
     00001 - Download OK - 005.mp4
     00002 - Download OK - 10yard.mp4
