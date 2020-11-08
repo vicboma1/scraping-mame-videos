@@ -8,7 +8,7 @@ The video speed is x59.
 ### Captures
 
 <p align="center">
-    <img src="https://github.com/vicboma1/scraping-mame-videos/blob/master/assets/images/scraping.png" >	
+    <img src="https://github.com/vicboma1/scraping-mame-videos/blob/main/assets/images/scraping_.gif" >	
 </p>
 
 ### video list games - 6.090 (2020-11-06)
