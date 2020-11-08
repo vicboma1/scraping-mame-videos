@@ -11,7 +11,7 @@ The video speed is x59.
     <img src="https://github.com/vicboma1/scraping-mame-videos/blob/master/assets/images/scraping.png" >	
 </p>
 
-### video list games - 6090
+### video list games - 6.090 (2020-11-06)
 
     00001 - Download OK - 005.mp4
     00002 - Download OK - 10yard.mp4
